@@ -7,6 +7,11 @@ This repository contains my solutions to various HackerRank problems implemented
 * LuckBalance.java
 * MarsCakeWalk.java
 * StringGridChallenge.java
+* LSS.java
+* BeautifulPairs.java
+* MaximumPerimeterTriangle.java
+* MinCost.java
+* PriyankAndToys.java
 
 ## 🚀 Description
 
